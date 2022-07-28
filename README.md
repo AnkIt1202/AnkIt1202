@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ankit1202.github.io](https://ankit1202.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@singankit1998](https://medium.com/@singankit1998)
-
 - 💬 Ask me about **Python, Linux, Ansible, AWS**
 
 - 📫 How to reach me **singankit1998@gmail.com**
