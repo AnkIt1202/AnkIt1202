@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankit!</h1>
-<h3 align="center">Grad Student at SFU Canada | Co-op at Canadian Imperial Bank of Commerce</h3>
+<h3 align="center">Grad Student at SFU Canada | Data Analyst Associate at The Toronto-Dominion Bank</h3>
 
-- 🌱 I’m currently learning **Jenkins, K8S, and Terraform**
+- 🌱 I’m currently learning **Airflow, Snowflake, and Databricks**
 
 - 👨‍💻 All of my projects are available at [https://ankit1202.github.io](https://ankit1202.github.io)
 
-- 💬 Ask me about **Python, Linux, Ansible, AWS**
-
 - 📫 How to reach me **singankit1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VChIeOTFjBFh9zfbSumqY_ke47_pAzoz/view?usp=sharing](https://drive.google.com/file/d/1VChIeOTFjBFh9zfbSumqY_ke47_pAzoz/view?usp=sharing)
+# - 📄 Know about my experiences [https://drive.google.com/file/d/1VChIeOTFjBFh9zfbSumqY_ke47_pAzoz/view?usp=sharing](https://drive.google.com/file/d/1VChIeOTFjBFh9zfbSumqY_ke47_pAzoz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
