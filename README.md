@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **singankit1998@gmail.com**
 
-# - 📄 Know about my experiences [https://drive.google.com/file/d/1VChIeOTFjBFh9zfbSumqY_ke47_pAzoz/view?usp=sharing](https://drive.google.com/file/d/1VChIeOTFjBFh9zfbSumqY_ke47_pAzoz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
