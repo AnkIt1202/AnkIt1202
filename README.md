@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ankit!</h1>
-<h3 align="center">Grad Student at SFU Canada | Data Analyst Associate at The Toronto-Dominion Bank</h3>
+# 👋 Hi, I'm Ankit Singh!
 
-- 🌱 I’m currently learning **Airflow, Snowflake, and Databricks**
+[🌐 Portfolio](https://ankit1202.github.io) | [📧 Email](mailto:singankit1998@gmail.com) | [🖥️ GitHub](https://github.com/AnkIt1202)
 
-- 👨‍💻 All of my projects are available at [https://ankit1202.github.io](https://ankit1202.github.io)
+---
 
-- 📫 How to reach me **singankit1998@gmail.com**
+I'm a **Data Engineer** with a strong background in building scalable ETL pipelines, cloud-based data solutions, and optimizing data workflows. Currently at **Toronto-Dominion Bank**, I specialize in data engineering and cloud technologies, focusing on transforming raw data into actionable insights for data-driven decision-making.
 
+## 🔧 Skills
+- **Languages**: Python, SQL, Bash
+- **Cloud Technologies**: Azure Databricks, Azure Data Factory, Azure SQL
+- **Data Visualization**: Tableau, Power BI, Streamlit
+- **Tools**: Git, JIRA, Confluence, Microsoft Visio
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankitsingh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsingh98" height="30" width="40" /></a>
-<a href="https://medium.com/@singankit1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singankit1998" height="30" width="40" /></a>
-</p>
+## 📂 Key Projects
+- **Cloud-based ETL Pipelines**: Developed and managed ETL processes to transfer and transform on-premises financial data to cloud storage, processing over 2 million records per transfer to support data analysis and reporting.
+  
+- **Data Ingestion Workflows**: Engineered data ingestion pipelines in Azure for complex data formats, including delimited and XML, ensuring seamless and reliable data flow for real-time analytics.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- **Tableau Dashboards for Financial Reporting**: Built and optimized Tableau dashboards to enhance report generation speed by 25%, improving data accessibility and responsiveness for end-users.
+
+- **Process Automation with Ansible**: Streamlined deployment processes using Ansible, reducing system configuration times from hours to minutes and ensuring consistency across multiple environments.
+
+## 📈 Current Focus
+- Advancing my expertise in cloud data platforms and scalable data solutions
+- Building efficient data pipelines for real-time analytics
+- Enhancing data visualization techniques for effective business reporting
+
+---
+
+Feel free to connect with me on GitHub or check out my [portfolio](https://ankit1202.github.io) to learn more about my work in data engineering!
